@@ -1,3 +1,10 @@
+# COVID19 Human AI Interaction Dashboard
+This project contains the codebase for my HAII Final Project at CMU Fall 2020. The repository is organized with the following key scripts.
+
+- python/ The subdirectory containing all the python scripts and files for running the python Flask server
+- COVID19LSTMModel.ipynb The Jupyter Notebook used to train, test and evaluate the model that was used for this dashboard
+- src/components/ The subdirectory containing all the components and widgets used for the COVID dashboard project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
